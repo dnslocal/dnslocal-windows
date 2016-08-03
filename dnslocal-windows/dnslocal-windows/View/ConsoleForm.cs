@@ -27,7 +27,7 @@ namespace DNSlocal.View
 
         private void versionLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://coding.net/u/banben/p/dnslocal-windows/git/blob/master/INSTALL.md");
+            System.Diagnostics.Process.Start("https://github.com/dnslocal/dnslocal-windows/blob/master/RELEASE.md");
         }
 
         private async void updateButton_Click(object sender, EventArgs e)
