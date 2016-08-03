@@ -1,0 +1,6 @@
+﻿listen-address 127.0.0.1:__PRIVOXY_BIND_PORT__
+confdir __APP_PATH__
+actionsfile __RULE_PATH__
+show-on-task-bar 0
+activity-animation 0
+hide-console

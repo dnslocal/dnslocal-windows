@@ -1,0 +1,22 @@
+<html><head>
+<title>Not Available!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 150px auto 0;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Not Available</h1>
+
+
+<p>@host@ maybe blocked. Please refer to
+<a href="https://github.com/dnslocal/dnslocal-list">supported domain list</a>.<br>If @host@ is not supported, you can create an issue at
+<a href="https://github.com/dnslocal/dnslocal-windows/issues">Github</a> page.</p>
+
+<p><em>forwarding-failed error.</em></p>
+
+
+</body></html>
