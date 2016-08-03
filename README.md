@@ -1,7 +1,7 @@
 # dnslocal-windows
 A Windows implementation of dnslocal.
 
-![](https://i.imgur.com/QpvMvva.png)
+![](http://i.imgur.com/B9Bsvsy.png)
 
 ## Features
 
