@@ -1,6 +1,8 @@
 # dnslocal-windows
 A Windows implementation of dnslocal.
 
+![](https://i.imgur.com/QpvMvva.png)
+
 ## Features
 
 * HSTS system proxy supported.
