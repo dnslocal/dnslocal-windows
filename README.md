@@ -19,7 +19,7 @@ If you want to know all supported domains, Please refer to https://github.com/dn
 
 ## Download
 
-You can always get the latest release here: https://coding.net/u/banben/p/dnslocal-windows/git/blob/master/INSTALL.md
+You can always get the latest release here: https://github.com/dnslocal/dnslocal-windows/blob/master/RELEASE.md
 
 ## Requirement
 
