@@ -23,7 +23,7 @@ You can always get the latest release here: https://github.com/dnslocal/dnslocal
 
 ## Requirement
 
-* Windows 7 or later, Windows XP is not supported
+* Windows 7 or later required, Windows XP is not supported
 * .NET Framework 4.5+ (not compatible with Windows XP)
 
 ## Usage
